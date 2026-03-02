@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD AZAM KHAN</h1>
 <h3 align="center">Aspiring Data Engineer with a strong foundation in Python, SQL, and data pipeline development. Passionate about building scalable ETL workflows and exploring big data technologies like Apache Spark, Airflow, and cloud platforms. Continuously learning and applying data engineering concepts through hands-on projects, with a keen interest in turning raw data into meaningful insights. Open to opportunities that allow me to grow and contribute in the field of data engineering.</h3>
 
-- 🌱 I’m currently learning **Fast Api**
 
 - 📫 How to reach me **md.azamkhan.ds@gmail.com**
 
